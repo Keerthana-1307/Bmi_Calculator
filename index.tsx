@@ -1,3 +1,4 @@
+//npm install -g expo-cli
 //npx create-expo-app BMICalculator
 //cd BMICalculator
 //After pasting below code in app->tabs->index.tsx
